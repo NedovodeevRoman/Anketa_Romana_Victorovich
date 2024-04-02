@@ -64,6 +64,10 @@ body {
     padding: 70px 0;
 }
 
+.header-photo{
+    max-width: 300px;
+}
+
 .header-text {
     margin-left: 27px;
 }
